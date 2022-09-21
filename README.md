@@ -13,3 +13,5 @@
 9. run tox for testing your package
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipelineUpdate config.yaml
+
+<!-- ![]("./docs/image/Data Ingestion@2x (1) (1).png") -->

@@ -14,4 +14,4 @@
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipelineUpdate config.yaml
 
-<!-- ![]("./docs/image/Data Ingestion@2x (1) (1).png") -->
+![img](https://raw.githubusercontent.com/snehalbalpande/FSDS_NOV_deepCNNClassifier/main/docs/image/Data%20Ingestion%402x%20(1)%20(1).png) 

@@ -15,3 +15,9 @@
 11. run "dvc repro" for running all the stages in pipelineUpdate config.yaml
 
 ![img](https://raw.githubusercontent.com/snehalbalpande/FSDS_NOV_deepCNNClassifier/main/docs/image/Data%20Ingestion%402x%20(1)%20(1).png) 
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/snehalbalpande1/FSDS_NOV_deepCNNClassifier.mlflow \
+MLFLOW_TRACKING_USERNAME=snehalbalpande1 \
+MLFLOW_TRACKING_PASSWORD=133ca0c75ba1b70a6104e333959b14b41c4d0e17 \
+python script.py
